@@ -1,7 +1,7 @@
 # **Cheat Sheet**
 
 
-
+![Desktop](https://qph.fs.quoracdn.net/main-qimg-9954961b7db47e0f0dceaf292f811bba)
 
 
 
@@ -23,3 +23,6 @@
 | cp | makes copies of files.
 | mv | moves files or directories to another location. And also rename.
 
+This is the webpage for more terminal commands
+
+https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/
