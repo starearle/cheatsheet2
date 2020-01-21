@@ -25,4 +25,4 @@
 
 This is the webpage for more terminal commands
 
-https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/
+(https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
